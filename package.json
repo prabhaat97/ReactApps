@@ -1,0 +1,22 @@
+{
+  "name": "text-field-7",
+  "version": "1.0.0",
+  "private": false,
+  "description": "TextField Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "textfieldtest",
+    "textfield7"
+  ],
+  "author": "Prabhaat",
+  "license": "ISC",
+  "peerDependencies": {
+    "react":"^16.3.2",
+    "react-native": "^0.55.4"
+  }
+}
